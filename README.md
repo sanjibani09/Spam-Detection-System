@@ -47,10 +47,13 @@ Spam_Email_Detection/
 ├── model/
 │ ├── spam_model.pkl
 │ └── vectorizer.pkl
+│
 ├── templates/
 │ └── index.html
+│
 ├── static/
 │ ├── style.css
 │ └── script.js
+│
 └── README.md
 
